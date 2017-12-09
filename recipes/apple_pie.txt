@@ -1,6 +1,9 @@
 an apple_pie text
 
+Aqui pondera lo mismo en ambos lado
 Primer ingrediente
 Segundo ingrediente
 Tercer ingrediente
 Cuarto ingrediente
+
+Aqui pondera lo mismo en ambos lado x2
