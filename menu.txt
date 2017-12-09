@@ -1,1 +1,2 @@
-this is a new document\n
+this is a new document
+cheesecake
