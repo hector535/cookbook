@@ -13,4 +13,8 @@ Aqui pondera lo mismo en ambos lado x2
 
 Ahora este es un contenido único del master
 
+
 Este es el branch 3 que también lo vera el master
+
+
+AHORA MI TEORIA TIENE QUE FUNCIONAR
